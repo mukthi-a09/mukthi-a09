@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**mukthi-a09/mukthi-a09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mukthi 👋
 
-Here are some ideas to get you started:
+### Aspiring Cybersecurity Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BTech graduate passionate about cybersecurity, networking, and Python development. I'm building my technical skills through hands-on practice and continuous learning.
+
+## 🛠️ Skills & Technologies
+
+- **Networking:** OSI Model, TCP/IP, DNS, DHCP, NAT, VLAN
+- **Security Tools:** Nmap, Wireshark (learning)
+- **Operating Systems:** Linux, Kali Linux, Windows
+- **Programming:** Python (Basics)
+- **Networking Labs:** Cisco Packet Tracer
+- **Tools:** Git, GitHub, VS Code
+
+## 📚 Currently Learning
+
+- Network security fundamentals
+- Vulnerability assessment
+- Linux commands and administration
+- Python automation
+- Ethical hacking in authorized lab environments
+
+## 🎯 My Goals
+
+- Build practical cybersecurity projects
+- Improve my Python and networking skills
+- Contribute to open-source projects
+- Prepare for a career in cybersecurity
+
+## 🤝 Connect With Me
+
+I'm open to learning opportunities, collaboration, and connecting with other aspiring cybersecurity professionals.
+
+---
+
+⭐ *Learning every day. Building step by step.*
