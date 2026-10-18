@@ -29,9 +29,12 @@ I'm a BTech graduate passionate about cybersecurity, networking, and Python deve
 - Contribute to open-source projects
 - Prepare for a career in cybersecurity
 
+
 ## 🤝 Connect With Me
 
-I'm open to learning opportunities, collaboration, and connecting with other aspiring cybersecurity professionals.
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mukthieshwar-kondoju-99a033416?)
+
+I'm open to learning opportunities, collaboration, and connecting with other cybersecurity professionals.
 
 ---
 
